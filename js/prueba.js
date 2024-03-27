@@ -1,7 +1,7 @@
-alert("Prueba");
+//alert("Prueba");
 $(document).ready(function () {
 
-    $("#btnPrueba").on('click', function(){
-        console.log("btnPrueba click remote");
-    })
+    //$("#btnPrueba").on('click', function(){
+        console.log("Prueba importacion de script remoto");
+    //})
 })
